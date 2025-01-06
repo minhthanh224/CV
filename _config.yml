@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Minh Thanh Tran Le
 title: Freshman
-email: mailto:minhthanhz1516@gmail.com
+email: minhthanhz1516@gmail.com
 website: https://github.com/minhthanh224
 
 # Dark Mode (true/false/never)
@@ -39,7 +39,7 @@ content:
         link: https://github.com/minhthanh224
         link_text: View Project
         description: | # this will include new lines to allow paragraphs
-          A personal website using the template by sproogen
+          A personal website using a template made by sproogen.
 
   - title: Education
     layout: list
